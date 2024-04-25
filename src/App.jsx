@@ -10,7 +10,7 @@ function App() {
     <>
       <main className="d-flex flex-nowrap" style={{height: '100vh', overflow: 'hidden'}}>
         <Sidebar />
-        <div style={{overflow: 'scroll', width: '100%sudo rm'}}>
+        <div style={{overflow: 'scroll', width: '100%'}}>
         <Searchbar/>
         <Page/>
         </div>
