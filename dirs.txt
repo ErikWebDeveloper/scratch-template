@@ -1,0 +1,20 @@
+src
+├── assets
+│   ├── css
+│   └── img
+├── components
+│   ├── layouts
+│   │   ├── app.jsx
+│   │   ├── searchbar.jsx
+│   │   └── sidebar.jsx
+│   └── modules
+│       ├── almacen
+│       ├── compras
+│       └── ventas
+├── helpers
+│   ├── buttons
+│   └── toast
+└── index.jsx
+
+
+Esta es la estructura de direcctorios ha seguir.
